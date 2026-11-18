@@ -1,0 +1,18 @@
+What was the first step in your E-Commerce Customer Intelligence project?
+You should be able to answer something like this:
+
+I started by understanding the data. I used Python and Pandas
+ to explore the Olist e-commerce dataset, inspect its structure, identify missing values 
+ and duplicate records, and convert timestamps into datetime format.
+
+I also examined the relationships between orders, customers, and purchased items. 
+This helped me understand how to connect the datasets and prepare them for customer segmentation 
+and business analytics.
+
+That's a meaningful explanation of your work, not just a list of Python functions.
+The most important lesson of Day 1: Before building machine learning models or visualizations,
+ we must understand what our data represents, assess its quality, and determine how different pieces 
+ of information relate to one another.
+
+On Day 2, we'll build directly on this foundation by exploring the remaining datasets
+ and preparing them for deeper analysis.
